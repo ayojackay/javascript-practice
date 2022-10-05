@@ -44,3 +44,20 @@ console.log("Marnee ".length); // Spaces count as part of the string length
 
 
 /*****/
+
+// DAY 1 Take Home
+
+// This is awesome! (single line comment)
+
+/* 
+ TODO:
+  - Finish Take home review
+  - Move on to git review
+  - Go over Primitive types
+*/
+
+console.group();
+console.log("Jacque");
+console.log("French fries");
+console.groupEnd();
+console.log("Not in a group!");
